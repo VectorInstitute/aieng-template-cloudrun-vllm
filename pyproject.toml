@@ -7,7 +7,7 @@ authors = [{ name = "Vector AI Engineering", email = "ai_engineering@vectorinsti
 license = "Apache-2.0"
 requires-python = ">=3.12"
 dependencies = [
-    "fastapi>=0.138.0",
+    "fastapi>=0.139.0",
     "uvicorn[standard]>=0.49.0",
     "openai>=2.44.0",
     "pydantic>=2.13.4",
